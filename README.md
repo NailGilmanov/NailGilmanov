@@ -1,16 +1,29 @@
-# github-profile-summary-cards-example
+<h1 align="center">
+    Hi there, I'm 
+    <a href="https://t.me/mdaamn" target="_blank" style="color: #8C43EA">Nail</a>
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+</h1>
+  
+<h3 align="center">
+    Student 17yo, frontend developer from Russia
+</h3>
+<br>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+### **My skills**
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&size=30&duration=3000&pause=1000&color=8C43EA&width=495&lines=React%2C+Redux%2C+Typescript;Algorithms+and+data+structures;SOLID+principles;Cypress%2C+Jest%2C+Git%2C+CI%2FCD%2C+Vanilla+JS)](https://git.io/typing-svg)
 
-```To create your profile README you need to name the repo as your username```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailGilmanov&hide_title=true&count_private=true&show_icons=true&title_color=8C43EA&icon_color=BE57EA&bg_color=30,191919,341b56&text_color=B1B1B1&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+<br>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="center">  </h3>
+<h3 align="center">Want to work with me? <br><br>Feel free to write on
+    <a href="https://t.me/mdaamn" target="_blank" style="color: #8C43EA">Telegram</a>.
+</h3>
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h2 align="center"> My WakaTime stats: </h2>
+
+[![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
