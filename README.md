@@ -21,9 +21,3 @@
 <h3 align="center">Want to work with me? <br><br>Feel free to write on
     <a href="https://t.me/mdaamn" target="_blank" style="color: #8C43EA">Telegram</a>.
 </h3>
-
-<h2 align="center"> My WakaTime stats: </h2>
-
-[![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NailGilmanov/NailGilmanov/master/profile-summary-card-output/synthwave/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
