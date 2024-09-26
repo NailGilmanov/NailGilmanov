@@ -5,7 +5,7 @@
 </h1>
   
 <h3 align="center">
-    Student 18yo, frontend developer at Yandex
+    Student 18yo, frontend developer at Yandex Realty
 </h3>
 <br>
 
