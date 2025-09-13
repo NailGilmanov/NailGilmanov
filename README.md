@@ -5,7 +5,7 @@
 </h1>
   
 <h3 align="center">
-    Student, fullstack developer
+    Student, fullstack developer at Yandex
 </h3>
 <br>
 
